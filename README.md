@@ -35,3 +35,16 @@ Credit Card Amount (After 15% commission deduction on room rate)
 Run at terminal:
 
 flow start BookingInitiatorFlow custName: Sonal,custAge: 27,checkInDate: "2020-10-23T10:12:35Z",checkOutDate: "2020-10-24T10:12:35Z",roomType: NK,roomRate: 100,creditCardNumber: 1234567890123456,creditCardExpDate: "2020-10-23T10:12:35Z",creditCardAmount: 85,hotelHeaven: "O=HotelHeaven,L=New York,C=US"
+
+You can refer my first articles by below link to understand what corda is and use cases of corda. So, you will get answer of why corda.
+https://www.linkedin.com/pulse/r3-corda-get-started-sonal-dhinoja
+
+And other article "How to Get started learning Corda: 10 Beginners FAQs"
+https://www.linkedin.com/pulse/how-get-started-learning-corda-10-beginners-faqs-sonal-dhinoja
+
+you can refer below article, to understand this corDapp.
+Part 1: How I created a CorDapp in 3 steps
+https://www.linkedin.com/pulse/how-i-created-cordapp-3-steps-sonal-dhinoja
+
+
+
